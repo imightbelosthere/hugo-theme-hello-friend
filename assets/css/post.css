@@ -1,12 +1,12 @@
 .post {
   width: 100%;
-  max-width: 800px;
+  max-width: 1024px;
   text-align: left;
   padding: 20px;
   margin: 20px auto;
 
   @media (--tablet) {
-    max-width: 660px;
+    max-width: 884px;
   }
 
   &:not(:last-of-type) {
@@ -52,7 +52,7 @@
 
   &-cover {
     margin: 40px -50px;
-    width: 860px;
+    width: 1084px;
     max-width: 860px;
 
     img {
